@@ -12,7 +12,7 @@
 
 " set EX_DEV variable for linux
 if has ("unix")
-    let $EX_DEV='~/exdev'
+    let $EX_DEV='~/.exdev'
     let g:ex_toolkit_path = $HOME.'/.toolkit'
 
     " NOTE: mac is unix like system, but to use gawk,id-utils correctly, we need to manually set the export path.  
