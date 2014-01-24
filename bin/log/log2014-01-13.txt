@@ -1,0 +1,83 @@
+10:19:46 	Upgrade Tool ver 1.15
+10:19:49 	Upgrade Tool ver 1.15
+10:19:49 	Upgrade Tool ver 1.15
+10:19:49 	Upgrade Tool ver 1.15
+10:19:51 	Upgrade Tool ver 1.15
+10:21:15 	Upgrade Tool ver 1.15
+10:21:21 	Upgrade Tool ver 1.15
+11:07:03 	Upgrade Tool ver 1.15
+11:07:05 	Upgrade Tool ver 1.15
+11:07:08 	Upgrade Tool ver 1.15
+16:37:44 	Upgrade Tool ver 1.15
+16:37:46 	Upgrade Tool ver 1.15
+16:37:46 	Upgrade Tool ver 1.15
+16:37:46 	Upgrade Tool ver 1.15
+16:37:48 	Upgrade Tool ver 1.15
+16:39:11 	Upgrade Tool ver 1.15
+16:39:17 	Upgrade Tool ver 1.15
+16:55:42 	Upgrade Tool ver 1.15
+16:55:44 	Upgrade Tool ver 1.15
+16:55:44 	Upgrade Tool ver 1.15
+16:55:44 	Upgrade Tool ver 1.15
+16:55:46 	Upgrade Tool ver 1.15
+16:57:10 	Upgrade Tool ver 1.15
+16:57:17 	Upgrade Tool ver 1.15
+17:28:03 	Upgrade Tool ver 1.15
+17:28:05 	Upgrade Tool ver 1.15
+17:28:05 	Upgrade Tool ver 1.15
+17:28:05 	Upgrade Tool ver 1.15
+17:29:29 	Upgrade Tool ver 1.15
+17:29:31 	Upgrade Tool ver 1.15
+17:29:38 	Upgrade Tool ver 1.15
+17:33:34 	Upgrade Tool ver 1.15
+17:33:37 	Upgrade Tool ver 1.15
+17:33:37 	Upgrade Tool ver 1.15
+17:33:37 	Upgrade Tool ver 1.15
+17:35:00 	Upgrade Tool ver 1.15
+17:35:02 	Upgrade Tool ver 1.15
+17:35:08 	Upgrade Tool ver 1.15
+17:50:23 	Upgrade Tool ver 1.15
+17:50:25 	Upgrade Tool ver 1.15
+17:50:27 	Upgrade Tool ver 1.15
+19:17:05 	Upgrade Tool ver 1.15
+19:17:07 	Upgrade Tool ver 1.15
+19:17:07 	Error:InitializeUsb-->get device config descriptor failed,err=-5
+19:17:25 	Upgrade Tool ver 1.15
+19:17:27 	Upgrade Tool ver 1.15
+19:17:27 	Test Device Start
+19:17:27 	Error:RKU_Write failed,err=-1
+19:17:27 	<LAYER 3-47> ERROR:TestDevice-->RKU_TestDeviceReady failed,RetCode(-3)
+19:17:28 	Error:RKU_Write failed,err=-1
+19:17:28 	<LAYER 3-47> ERROR:TestDevice-->RKU_TestDeviceReady failed,RetCode(-3)
+19:17:29 	Error:RKU_Write failed,err=-1
+19:17:29 	<LAYER 3-47> ERROR:TestDevice-->RKU_TestDeviceReady failed,RetCode(-3)
+19:17:30 	Test Device Fail
+20:09:38 	Upgrade Tool ver 1.15
+20:09:41 	Upgrade Tool ver 1.15
+20:09:43 	Upgrade Tool ver 1.15
+20:18:29 	Upgrade Tool ver 1.15
+20:18:32 	Upgrade Tool ver 1.15
+20:19:30 	Upgrade Tool ver 1.15
+20:19:32 	Upgrade Tool ver 1.15
+20:19:32 	Test Device Start
+20:19:32 	Test Device Success
+20:19:32 	Check Chip Start
+20:19:32 	Check Chip Success
+20:19:32 	Get FlashInfo Start
+20:19:32 	<LAYER 3-121> INFO:FlashInfo: 0 0 0 1 0 10 10 28 20 4 1
+20:19:32 	Get FlashInfo Success
+20:19:32 	 Prepare IDB Start
+20:19:32 	<LAYER 3-121> INFO:CS(1)		(8192MB)		(MICRON)
+20:19:32 	Prepare IDB Success
+20:19:32 	Download IDB Start
+20:19:33 	Download IDB Success
+20:19:33 	Reset Device Start
+20:19:35 	Reset Device Success
+20:19:35 	Wait For Loader Start
+20:19:35 	Wait For Loader Success
+20:19:35 	Test Device Start
+20:19:35 	Test Device Success
+20:19:35 	Download Firmware Start
+20:22:03 	Download Firmware Success
+20:22:03 	Reset Device Start
+20:22:05 	Reset Device Success

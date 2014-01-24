@@ -1,0 +1,104 @@
+11:20:23 	Upgrade Tool ver 1.15
+11:20:25 	Upgrade Tool ver 1.15
+11:20:44 	Upgrade Tool ver 1.15
+11:20:46 	Upgrade Tool ver 1.15
+11:23:00 	Upgrade Tool ver 1.15
+11:23:02 	Upgrade Tool ver 1.15
+11:23:15 	Upgrade Tool ver 1.15
+11:23:17 	Upgrade Tool ver 1.15
+11:25:27 	Upgrade Tool ver 1.15
+11:25:29 	Upgrade Tool ver 1.15
+11:25:29 	Test Device Start
+11:25:33 	Test Device Success
+11:25:33 	Check Chip Start
+11:25:33 	Check Chip Success
+11:25:33 	Get FlashInfo Start
+11:25:33 	<LAYER 3-6> INFO:FlashInfo: 0 0 0 1 0 20 20 28 1E 1 1
+11:25:33 	Get FlashInfo Success
+11:25:33 	 Prepare IDB Start
+11:25:33 	<LAYER 3-6> INFO:CS(1)		(8192MB)		(TOSHIBA)
+11:25:33 	Prepare IDB Success
+11:25:33 	Download IDB Start
+11:25:34 	Download IDB Success
+11:25:34 	Reset Device Start
+11:25:36 	Reset Device Success
+11:25:36 	Wait For Loader Start
+11:25:36 	Wait For Loader Success
+11:25:36 	Test Device Start
+11:25:39 	Test Device Success
+11:25:39 	Download Firmware Start
+11:27:13 	Download Firmware Success
+11:27:13 	Reset Device Start
+11:27:15 	Reset Device Success
+14:48:59 	Upgrade Tool ver 1.15
+14:49:01 	Upgrade Tool ver 1.15
+14:49:01 	Upgrade Tool ver 1.15
+14:49:02 	Upgrade Tool ver 1.15
+14:49:04 	Upgrade Tool ver 1.15
+14:50:56 	Upgrade Tool ver 1.15
+14:51:04 	Upgrade Tool ver 1.15
+15:32:50 	Upgrade Tool ver 1.15
+15:32:53 	Upgrade Tool ver 1.15
+15:32:55 	Upgrade Tool ver 1.15
+15:35:52 	Upgrade Tool ver 1.15
+15:35:55 	Upgrade Tool ver 1.15
+15:35:57 	Upgrade Tool ver 1.15
+15:37:02 	Upgrade Tool ver 1.15
+15:37:05 	Upgrade Tool ver 1.15
+15:37:07 	Upgrade Tool ver 1.15
+15:38:29 	Upgrade Tool ver 1.15
+15:38:31 	Upgrade Tool ver 1.15
+15:38:33 	Upgrade Tool ver 1.15
+15:42:31 	Upgrade Tool ver 1.15
+15:42:33 	Upgrade Tool ver 1.15
+15:42:35 	Upgrade Tool ver 1.15
+15:44:39 	Upgrade Tool ver 1.15
+15:44:41 	Upgrade Tool ver 1.15
+15:44:43 	Upgrade Tool ver 1.15
+15:45:42 	Upgrade Tool ver 1.15
+15:45:44 	Upgrade Tool ver 1.15
+15:45:47 	Upgrade Tool ver 1.15
+16:23:20 	Upgrade Tool ver 1.15
+16:23:22 	Upgrade Tool ver 1.15
+16:23:24 	Upgrade Tool ver 1.15
+16:25:58 	Upgrade Tool ver 1.15
+16:26:00 	Upgrade Tool ver 1.15
+16:26:02 	Upgrade Tool ver 1.15
+16:27:04 	Upgrade Tool ver 1.15
+16:27:06 	Upgrade Tool ver 1.15
+16:27:08 	Upgrade Tool ver 1.15
+17:25:41 	Upgrade Tool ver 1.15
+17:25:43 	Upgrade Tool ver 1.15
+17:25:46 	Upgrade Tool ver 1.15
+17:40:09 	Upgrade Tool ver 1.15
+17:40:11 	Upgrade Tool ver 1.15
+17:40:13 	Upgrade Tool ver 1.15
+17:43:18 	Upgrade Tool ver 1.15
+17:43:20 	Upgrade Tool ver 1.15
+17:43:22 	Upgrade Tool ver 1.15
+17:49:07 	Upgrade Tool ver 1.15
+17:49:09 	Upgrade Tool ver 1.15
+17:49:11 	Upgrade Tool ver 1.15
+17:50:10 	Upgrade Tool ver 1.15
+17:50:12 	Upgrade Tool ver 1.15
+17:50:15 	Upgrade Tool ver 1.15
+17:51:14 	Upgrade Tool ver 1.15
+17:51:16 	Upgrade Tool ver 1.15
+17:51:18 	Upgrade Tool ver 1.15
+17:58:20 	Upgrade Tool ver 1.15
+17:58:22 	Upgrade Tool ver 1.15
+17:58:24 	Upgrade Tool ver 1.15
+19:42:16 	Upgrade Tool ver 1.15
+19:58:39 	Upgrade Tool ver 1.15
+19:58:41 	Upgrade Tool ver 1.15
+19:58:41 	Upgrade Tool ver 1.15
+19:58:45 	Upgrade Tool ver 1.15
+19:58:48 	Upgrade Tool ver 1.15
+19:58:49 	Upgrade Tool ver 1.15
+19:59:40 	Upgrade Tool ver 1.15
+19:59:43 	Upgrade Tool ver 1.15
+19:59:43 	Upgrade Tool ver 1.15
+19:59:45 	Upgrade Tool ver 1.15
+20:05:23 	Upgrade Tool ver 1.15
+20:05:26 	Upgrade Tool ver 1.15
+20:05:27 	Upgrade Tool ver 1.15

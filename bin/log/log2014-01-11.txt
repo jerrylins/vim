@@ -1,0 +1,102 @@
+10:45:32 	Upgrade Tool ver 1.15
+10:45:34 	Upgrade Tool ver 1.15
+10:45:34 	Download Boot Start
+10:45:35 	Download Boot Success
+10:45:35 	Wait For Maskrom Start
+10:45:35 	Wait For Maskrom Success
+10:45:35 	Test Device Start
+10:45:35 	Test Device Success
+10:45:35 	Check Chip Start
+10:45:35 	Check Chip Success
+10:45:35 	Get FlashInfo Start
+10:45:35 	<LAYER 3-7> INFO:FlashInfo: 0 0 0 0 0 1 2 0 32 0 0
+10:45:35 	Get FlashInfo Success
+10:45:35 	 Prepare IDB Start
+10:45:35 	<LAYER 3-7> ERROR:PrepareIDB-->No Found 1st Flash CS
+10:45:35 	Prepare IDB Fail
+10:48:41 	Upgrade Tool ver 1.15
+11:25:56 	Upgrade Tool ver 1.15
+11:25:58 	Upgrade Tool ver 1.15
+11:26:02 	Upgrade Tool ver 1.15
+11:26:04 	Upgrade Tool ver 1.15
+11:26:04 	Download Boot Start
+11:26:05 	Download Boot Success
+11:26:05 	Wait For Maskrom Start
+11:26:06 	Wait For Maskrom Success
+11:26:06 	Test Device Start
+11:26:06 	Test Device Success
+11:26:06 	Check Chip Start
+11:26:06 	Check Chip Success
+11:26:06 	Get FlashInfo Start
+11:26:06 	<LAYER 3-8> INFO:FlashInfo: 0 0 80 0 0 20 20 28 2A 1 1
+11:26:06 	Get FlashInfo Success
+11:26:06 	 Prepare IDB Start
+11:26:06 	<LAYER 3-8> INFO:CS(1)		(4096MB)		(TOSHIBA)
+11:26:06 	Prepare IDB Success
+11:26:06 	Download IDB Start
+11:26:07 	Download IDB Success
+11:26:07 	Reset Device Start
+11:26:09 	Reset Device Success
+11:26:09 	Wait For Loader Start
+11:26:09 	Wait For Loader Success
+11:26:09 	Test Device Start
+11:26:14 	Test Device Success
+11:26:14 	Download Firmware Start
+11:27:09 	<LAYER 3-8> ERROR:RKA_File_Check-->Memcmp failed,Read(65536)
+11:27:09 	<LAYER 3-8> ERROR:DownloadImage-->RKA_File_Check failed(boot)
+11:27:09 	Download Firmware Fail
+11:31:53 	Upgrade Tool ver 1.15
+11:31:53 	Error:InitializeUsb-->get device config descriptor failed,err=-5
+11:31:55 	Upgrade Tool ver 1.15
+11:32:10 	Upgrade Tool ver 1.15
+11:32:12 	Upgrade Tool ver 1.15
+11:32:12 	Test Device Start
+11:32:12 	Test Device Success
+11:32:12 	Check Chip Start
+11:32:12 	Check Chip Success
+11:32:12 	Get FlashInfo Start
+11:32:12 	<LAYER 3-19> INFO:FlashInfo: 0 0 80 0 0 10 10 28 20 2 1
+11:32:12 	Get FlashInfo Success
+11:32:12 	 Prepare IDB Start
+11:32:12 	<LAYER 3-19> INFO:CS(1)		(4096MB)		(HYNIX)
+11:32:12 	Prepare IDB Success
+11:32:12 	Download IDB Start
+11:32:19 	Download IDB Success
+11:32:19 	Reset Device Start
+11:32:21 	Reset Device Success
+11:32:21 	Wait For Loader Start
+11:32:21 	Wait For Loader Success
+11:32:21 	Test Device Start
+11:32:21 	Test Device Success
+11:32:21 	Download Firmware Start
+11:34:12 	Download Firmware Success
+11:34:12 	Reset Device Start
+11:34:14 	Reset Device Success
+17:04:47 	Upgrade Tool ver 1.15
+17:04:49 	Upgrade Tool ver 1.15
+17:04:51 	Upgrade Tool ver 1.15
+17:10:47 	Upgrade Tool ver 1.15
+17:10:50 	Upgrade Tool ver 1.15
+17:10:51 	Upgrade Tool ver 1.15
+17:18:34 	Upgrade Tool ver 1.15
+17:18:36 	Upgrade Tool ver 1.15
+17:18:39 	Upgrade Tool ver 1.15
+17:21:36 	Upgrade Tool ver 1.15
+17:22:30 	Upgrade Tool ver 1.15
+17:22:41 	Upgrade Tool ver 1.15
+17:22:43 	Upgrade Tool ver 1.15
+17:33:37 	Upgrade Tool ver 1.15
+17:33:45 	Upgrade Tool ver 1.15
+17:33:45 	Upgrade Tool ver 1.15
+17:33:52 	Upgrade Tool ver 1.15
+17:33:54 	Upgrade Tool ver 1.15
+17:33:56 	Upgrade Tool ver 1.15
+18:04:44 	Upgrade Tool ver 1.15
+18:04:47 	Upgrade Tool ver 1.15
+18:04:47 	Upgrade Tool ver 1.15
+18:04:51 	Upgrade Tool ver 1.15
+18:04:55 	Upgrade Tool ver 1.15
+18:04:57 	Upgrade Tool ver 1.15
+18:17:42 	Upgrade Tool ver 1.15
+18:17:45 	Upgrade Tool ver 1.15
+18:17:46 	Upgrade Tool ver 1.15

@@ -1,0 +1,164 @@
+10:25:30 	Upgrade Tool ver 1.15
+10:25:32 	Upgrade Tool ver 1.15
+10:25:32 	Upgrade Tool ver 1.15
+10:25:33 	Upgrade Tool ver 1.15
+10:25:35 	Upgrade Tool ver 1.15
+10:27:27 	Upgrade Tool ver 1.15
+10:27:35 	Upgrade Tool ver 1.15
+10:34:47 	Upgrade Tool ver 1.15
+10:38:56 	Upgrade Tool ver 1.15
+10:38:59 	Upgrade Tool ver 1.15
+10:38:59 	Upgrade Tool ver 1.15
+10:38:59 	Upgrade Tool ver 1.15
+10:39:01 	Upgrade Tool ver 1.15
+10:40:53 	Upgrade Tool ver 1.15
+10:41:02 	Upgrade Tool ver 1.15
+10:43:10 	Upgrade Tool ver 1.15
+10:43:10 	Error:RKU_MscToRockusb failed,err=-8
+10:43:13 	Upgrade Tool ver 1.15
+10:43:15 	Upgrade Tool ver 1.15
+10:47:19 	Upgrade Tool ver 1.15
+10:47:22 	Upgrade Tool ver 1.15
+10:47:22 	Upgrade Tool ver 1.15
+10:47:26 	Upgrade Tool ver 1.15
+10:47:28 	Upgrade Tool ver 1.15
+10:47:30 	Upgrade Tool ver 1.15
+10:57:47 	Upgrade Tool ver 1.15
+10:57:56 	Upgrade Tool ver 1.15
+10:57:56 	Upgrade Tool ver 1.15
+10:57:59 	Upgrade Tool ver 1.15
+10:58:01 	Upgrade Tool ver 1.15
+10:58:04 	Upgrade Tool ver 1.15
+11:00:41 	Upgrade Tool ver 1.15
+11:00:42 	Upgrade Tool ver 1.15
+11:00:42 	Upgrade Tool ver 1.15
+11:00:42 	Upgrade Tool ver 1.15
+11:00:45 	Upgrade Tool ver 1.15
+11:02:37 	Upgrade Tool ver 1.15
+11:02:46 	Upgrade Tool ver 1.15
+11:32:11 	Upgrade Tool ver 1.15
+11:32:13 	Upgrade Tool ver 1.15
+11:32:13 	Upgrade Tool ver 1.15
+11:32:16 	Upgrade Tool ver 1.15
+11:32:18 	Upgrade Tool ver 1.15
+11:32:21 	Upgrade Tool ver 1.15
+11:42:46 	Upgrade Tool ver 1.15
+11:43:53 	Upgrade Tool ver 1.15
+11:43:55 	Upgrade Tool ver 1.15
+11:43:55 	Upgrade Tool ver 1.15
+11:43:55 	Upgrade Tool ver 1.15
+11:43:57 	Upgrade Tool ver 1.15
+11:45:21 	Upgrade Tool ver 1.15
+11:45:28 	Upgrade Tool ver 1.15
+17:05:52 	Upgrade Tool ver 1.15
+17:06:21 	Upgrade Tool ver 1.15
+17:06:23 	Upgrade Tool ver 1.15
+17:11:01 	Upgrade Tool ver 1.15
+17:11:03 	Upgrade Tool ver 1.15
+17:11:05 	Upgrade Tool ver 1.15
+17:25:52 	Upgrade Tool ver 1.15
+17:25:56 	Upgrade Tool ver 1.15
+17:25:56 	Upgrade Tool ver 1.15
+17:25:58 	Upgrade Tool ver 1.15
+17:26:01 	Upgrade Tool ver 1.15
+17:26:02 	Upgrade Tool ver 1.15
+17:39:48 	Upgrade Tool ver 1.15
+17:39:50 	Upgrade Tool ver 1.15
+17:39:52 	Upgrade Tool ver 1.15
+17:53:27 	Upgrade Tool ver 1.15
+17:53:29 	Upgrade Tool ver 1.15
+17:53:31 	Upgrade Tool ver 1.15
+18:05:34 	Upgrade Tool ver 1.15
+18:06:16 	Upgrade Tool ver 1.15
+18:06:16 	Upgrade Tool ver 1.15
+18:06:19 	Upgrade Tool ver 1.15
+18:06:22 	Upgrade Tool ver 1.15
+18:06:24 	Upgrade Tool ver 1.15
+18:12:42 	Upgrade Tool ver 1.15
+18:12:44 	Upgrade Tool ver 1.15
+18:12:46 	Upgrade Tool ver 1.15
+19:11:57 	Upgrade Tool ver 1.15
+19:11:59 	Upgrade Tool ver 1.15
+19:12:02 	Upgrade Tool ver 1.15
+19:12:04 	Upgrade Tool ver 1.15
+19:12:52 	Upgrade Tool ver 1.15
+19:12:54 	Upgrade Tool ver 1.15
+19:12:54 	Test Device Start
+19:12:54 	Test Device Success
+19:12:54 	Check Chip Start
+19:12:54 	Check Chip Success
+19:12:54 	Get FlashInfo Start
+19:12:54 	<LAYER 3-107> INFO:FlashInfo: 0 0 80 0 0 10 10 28 2C 2 1
+19:12:54 	Get FlashInfo Success
+19:12:54 	 Prepare IDB Start
+19:12:54 	<LAYER 3-107> INFO:CS(1)		(4096MB)		(HYNIX)
+19:12:54 	Prepare IDB Success
+19:12:54 	Download IDB Start
+19:13:03 	Download IDB Success
+19:13:03 	Reset Device Start
+19:13:05 	Reset Device Success
+19:13:05 	Wait For Loader Start
+19:13:06 	Wait For Loader Success
+19:13:06 	Test Device Start
+19:13:06 	Test Device Success
+19:13:06 	Download Firmware Start
+19:15:53 	Download Firmware Success
+19:15:53 	Reset Device Start
+19:15:55 	Reset Device Success
+19:26:34 	Upgrade Tool ver 1.15
+19:26:36 	Upgrade Tool ver 1.15
+19:26:36 	Test Device Start
+19:26:36 	Test Device Success
+19:26:36 	Check Chip Start
+19:26:36 	Check Chip Success
+19:26:36 	Get FlashInfo Start
+19:26:36 	<LAYER 3-112> INFO:FlashInfo: 0 0 80 0 0 10 10 28 2A 2 1
+19:26:36 	Get FlashInfo Success
+19:26:36 	 Prepare IDB Start
+19:26:36 	<LAYER 3-112> INFO:CS(1)		(4096MB)		(HYNIX)
+19:26:36 	Prepare IDB Success
+19:26:36 	Download IDB Start
+19:26:37 	Download IDB Success
+19:26:37 	Reset Device Start
+19:26:39 	Reset Device Success
+19:26:39 	Wait For Loader Start
+19:26:39 	Wait For Loader Success
+19:26:39 	Test Device Start
+19:26:40 	Test Device Success
+19:26:40 	Download Firmware Start
+19:29:17 	Download Firmware Success
+19:29:17 	Reset Device Start
+19:29:19 	Reset Device Success
+20:07:00 	Upgrade Tool ver 1.15
+20:07:02 	Upgrade Tool ver 1.15
+20:07:04 	Upgrade Tool ver 1.15
+20:28:50 	Upgrade Tool ver 1.15
+20:28:53 	Upgrade Tool ver 1.15
+20:28:54 	Upgrade Tool ver 1.15
+20:39:47 	Upgrade Tool ver 1.15
+20:39:49 	Upgrade Tool ver 1.15
+20:39:51 	Upgrade Tool ver 1.15
+20:45:33 	Upgrade Tool ver 1.15
+20:45:36 	Upgrade Tool ver 1.15
+20:45:38 	Upgrade Tool ver 1.15
+20:52:44 	Upgrade Tool ver 1.15
+20:52:46 	Upgrade Tool ver 1.15
+20:52:48 	Upgrade Tool ver 1.15
+20:59:30 	Upgrade Tool ver 1.15
+20:59:32 	Upgrade Tool ver 1.15
+20:59:34 	Upgrade Tool ver 1.15
+21:04:42 	Upgrade Tool ver 1.15
+21:04:44 	Upgrade Tool ver 1.15
+21:04:46 	Upgrade Tool ver 1.15
+21:11:14 	Upgrade Tool ver 1.15
+21:11:17 	Upgrade Tool ver 1.15
+21:11:19 	Upgrade Tool ver 1.15
+21:17:17 	Upgrade Tool ver 1.15
+21:17:19 	Upgrade Tool ver 1.15
+21:17:21 	Upgrade Tool ver 1.15
+21:40:44 	Upgrade Tool ver 1.15
+21:40:47 	Upgrade Tool ver 1.15
+21:40:48 	Upgrade Tool ver 1.15
+21:42:59 	Upgrade Tool ver 1.15
+21:43:01 	Upgrade Tool ver 1.15
+21:43:03 	Upgrade Tool ver 1.15
