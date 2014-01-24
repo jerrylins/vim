@@ -171,7 +171,8 @@ endfunction
 " color scheme define
 if has("gui_running")
     " silent exec "colorscheme ex"
-    silent exec "colorscheme ex_lightgray"
+   " silent exec "colorscheme ex_lightgray"
+     silent exec "colorscheme desertEx"
 else " if we are in terminal mode
     " NOTE: you cannot use if has('mac') to detect platform in terminal mode.
     "silent exec "colorscheme default"
@@ -453,8 +454,8 @@ endif " has("autocmd")
 map <F6> :set sessionoptions+=curdir<cr>:set sessionoptions+=buffers<cr> :set sessionoptions+=winsize<cr>  :mksession! mine.vim<cr> :wviminfo! mine.viminfo<cr> :wall<cr> : qall<cr> 
 map <F7> :source ./mine.vim<cr> :rviminfo ./mine.viminfo<cr> <c-j>:q<cr>  
 "----------------------------------------
-map! ll <ESC>   
-
+map! jk <ESC>   
+set ignorecase
 " ------------------------------------------------------------------ 
 " Desc: Buffer
 " ------------------------------------------------------------------ 
@@ -766,7 +767,7 @@ function g:ex_CustomHighlight()
 
     " For marks a-z
     hi clear ShowMarksHLl
-    hi ShowMarksHLl term=bold cterm=none ctermbg=LightBlue gui=none guibg=LightBlue
+    hi ShowMarksHLl term=bold cterm=none ctermbg=DarkGray gui=none guibg=LightBlue
     " For marks A-Z
     hi clear ShowMarksHLu
     hi ShowMarksHLu term=bold cterm=bold ctermbg=LightRed ctermfg=DarkRed gui=bold guibg=LightRed guifg=DarkRed
