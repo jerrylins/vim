@@ -4,7 +4,7 @@ include_file=./include.list
 output_file=cscope.files
 source_file_temp=./source_file_temp
 output_file_temp=./output.temp
-make clean
+#make clean
 #make ARCH=arm CROSS_COMPILE=arm-eabi- CFLAGS_KERNEL=-H -j4 1>$source_file 2>$include_file
 make kernel.img CFLAGS_KERNEL=-H -j4 1>$source_file 2>$include_file
 
