@@ -44,3 +44,7 @@ rm $output_file_temp $source_file_temp $source_file $include_file
 rm cscope.*out*
 cscope -bkq -i $output_file 
 ctags -L $output_file
+
+source lookup-tag-gen
+
+

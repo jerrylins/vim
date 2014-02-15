@@ -455,6 +455,7 @@ map <F6> :set sessionoptions+=curdir<cr>:set sessionoptions+=buffers<cr> :set se
 map <F7> :source ./mine.vim<cr> :rviminfo ./mine.viminfo<cr> <c-j>:q<cr>  
 "----------------------------------------
 map! jk <ESC>   
+let mapleader=","
 set ignorecase
 " ------------------------------------------------------------------ 
 " Desc: Buffer
@@ -1010,7 +1011,7 @@ function g:exES_PostUpdate()
 
     " set lookup file plugin variables
 	if exists( 'g:exES_LookupFileTag' )
-        let g:LookupFile_TagExpr='"'.g:exES_LookupFileTag.'"'
+        let g:LookupFile_TagExpr='"'.g:exES_LookupFileTag.'"./tags"''
         if exists(':LUCurFile')
             " NOTE: the second <CR>, if only one file, will jump to it directly.
             unmap gf
@@ -1033,7 +1034,7 @@ function g:exES_PostUpdate()
 	endif
 
     " set vimwiki
-    if exists( 'g:exES_wikiHome' )
+    if exists(:q 'g:exES_wikiHome' )
         " clear the list first
         if exists( 'g:vimwiki_list' ) && !empty(g:vimwiki_list)
             silent call remove( g:vimwiki_list, 0, len(g:vimwiki_list)-1 )
@@ -1216,11 +1217,11 @@ if has("gui_running") "  the <alt> key is only available in gui mode.
         nnoremap <unique> <M-I> :LUTags<CR>
     endif
 endif
-nnoremap <unique> <leader>lf :LUTags<CR>
-nnoremap <unique> <leader>lb :LUBufs<CR>
+nnoremap <unique> <leader>f :LUTags<CR>
+nnoremap <unique> <leader>b :LUBufs<CR>
 nnoremap <unique> <silent> <Leader>ll :LUCurWord<CR>
 
-let g:LookupFile_TagExpr = ''
+let g:LookupFile_TagExpr = '"filenametags"'
 let g:LookupFile_MinPatLength = 3
 let g:LookupFile_PreservePatternHistory = 0
 let g:LookupFile_PreserveLastPattern = 0

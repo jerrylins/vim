@@ -1,0 +1,76 @@
+exEnvironmentSetting  环境设置 
+exProject   项目管理，类似另一个script "Project"，但速度更快功能更强 
+exTagSelect  增强的:tagselect，提供方便的tag跳转和辅助界面。需要ctags 
+exSymbolTable  提供全项目的可跳转symbol（就是tags文件中所有tag）的速查列表， 
+需ctags，gawk 
+exGlobalSearch  全项目基于索引的全局查找，速度很快，但需定期制作索引，需id-u 
+tilities支持 
+exQuickFix  增强的quickfix，提供quickfix跳转和辅助界面 
+exMacroHighlight   开关宏定义来显亮/关闭代码，用于多平台混合开发（很多#ifdef 
+  OS_WIN这种） 
+  exMarksBrowser  方便的Marks列表 
+  exSearchComplete  用于各种情形下的补齐 
+  exCscope  增强型的cscope，需cscope支持才能使用  
+
+
+添加文件头<leader>wh
+======================================================================================
+ File         : vimkey
+ Author       : Wu Jie 
+ Last Change  : 02/14/2014 | 17:31:45 PM | Friday,February
+ Description  : 
+ ======================================================================================
+
+交换2个单词：<unique> <silent><leader>sw
+缩进一个table <unique> <
+右移一个table <unique> >
+
+注释行 <leader>ws
+/////////////////////////////////////////////////////////////////////////////
+
+/////////////////////////////////////////////////////////////////////////////
+
+虚线注释 <leader>wd
+ ------------------------------------------------------------------ 
+ Desc: 
+ ------------------------------------------------------------------ 
+
+等号注释 <leader>we
+  ======================================================== 
+  
+  ======================================================== 
+
+C++ 函数注释<leader>wc
+  /////////////////////////////////////////////////////////////////////////////
+   class 
+   
+   Purpose: 
+   
+  /////////////////////////////////////////////////////////////////////////////
+
+添加或移除宏定义扩展的 "\" vnoremap <unique> <F9> 
+
+插入删除 #if #endif宏定义<unique> <F12>
+
+删除当前buffer <unique> <Leader>bd
+
+高亮当前单词<leader>h1 取消高亮<leader>h0
+
+复制当前文件路径：<unique> <silent> <leader>y1
+复制当前文件名：<unique> <silent> <leader>y2 
+复制路径与文件名：<unique> <silent> <leader>y3
+复制路径与文件名(打开的路径）<unique> <silent> <leader>yb
+复制路径(打开的路径)<unique> <silent> <leader>yp
+
+显示跳转栈<unique> <silent> <Leader>tt
+
+显示但前文件在哪里被引用<unique> <silent> <F2>
+
+显示当前函数引用的函数 <unique> <silent> <F3
+显示但前函数被引用的地方<unique> <silent> <Leader>cc 
+显示之前的toggle   <unique> <silent> <Leader>cs
+
+call exUtility#AddLangMap ( 'exvim', 'javascript', ['as'] )
+call exUtility#AddLangMap ( 'exvim', 'maxscript', ['ms'] )
+call exUtility#AddLangMap ( 'exvim', 'lua', ['wlua'] )
+
