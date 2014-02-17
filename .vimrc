@@ -450,6 +450,11 @@ if has("autocmd")
   augroup END
 endif " has("autocmd")
 "//////////////////// YunxiZhangy
+func! CompileAndDownloaderKernel()
+    exec "w"
+    exec "!dik"
+endfunc
+"map  <F5>: call CompileKernel() <CR>
 "viminfo---------------------------------
 map <F6> :set sessionoptions+=curdir<cr>:set sessionoptions+=buffers<cr> :set sessionoptions+=winsize<cr>  :mksession! mine.vim<cr> :wviminfo! mine.viminfo<cr> :wall<cr> : qall<cr> 
 map <F7> :source ./mine.vim<cr> :rviminfo ./mine.viminfo<cr> <c-j>:q<cr>  
@@ -457,6 +462,9 @@ map <F7> :source ./mine.vim<cr> :rviminfo ./mine.viminfo<cr> <c-j>:q<cr>
 map! jk <ESC>   
 let mapleader=","
 set ignorecase
+set shortmess+=T  "dont display 'xxxxx Press ENTER or type command to continuer'
+"double cr disable return messages
+nnoremap <unique> <leader>df :call CompileAndDownloaderKernel()<CR><CR> 
 " ------------------------------------------------------------------ 
 " Desc: Buffer
 " ------------------------------------------------------------------ 
@@ -596,6 +604,8 @@ nnoremap <c-g> <c-w>-
 nnoremap <c-p> <c-w><
 nnoremap <c-n> <c-w>>
 
+func Enter()
+endfunc
 set cscopequickfix=s-,c-,d-,i-,t-,e-
 if has("cscope")
     set csprg=/usr/bin/cscope
@@ -605,13 +615,14 @@ if has("cscope")
 	set cspc=3
     "add any database in current dir
    if filereadable("cscope.out")
-       cs add cscope.out
+    silent cs add cscope.out
     "else search cscope.out elsewhere
    else
       let cscope_file=findfile("cscope.out", ".;")
       let cscope_pre=matchstr(cscope_file, ".*/")
       if !empty(cscope_file) && filereadable(cscope_file)
-        exe "cs add" cscope_file cscope_pre
+        exe  " silent cs add" cscope_file cscope_pre
+        
       endif      
    endif
 end
