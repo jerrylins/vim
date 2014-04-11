@@ -1228,7 +1228,7 @@ if has("gui_running") "  the <alt> key is only available in gui mode.
         nnoremap <unique> <M-I> :LUTags<CR>
     endif
 endif
-nnoremap <unique> <leader>f :LUTags<CR>
+nnoremap <unique> <leader>fs :LUTags<CR><CR>
 nnoremap <unique> <leader>b :LUBufs<CR>
 nnoremap <unique> <silent> <Leader>ll :LUCurWord<CR>
 

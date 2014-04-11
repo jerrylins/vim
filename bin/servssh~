@@ -1,2 +1,0 @@
-#!/bin/bash
-ssh -l zhangyx -p 22 172.168.1.237

@@ -3,6 +3,6 @@
 echo $1
 sudo ~/bin/upgrade_tool sd
 
-sleep 2
+sleep 3
 
 sudo ~/bin/upgrade_tool uf  $1

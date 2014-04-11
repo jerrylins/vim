@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/jone/work/rk3026v42/packages/apps/Launcher2/src/com/android/launcher2'
+let g:netrw_dirhist_2='/home/jone/work/rk3026v42/hardware/rk29/camera'
+let g:netrw_dirhist_3='/home/jone/work/rk3026v42/kernel'
+let g:netrw_dirhist_4='/home/jone/work/a9_rk3188_4.4/kernel'
